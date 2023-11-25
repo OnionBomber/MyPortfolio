@@ -1,0 +1,58 @@
+footer {
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  background-color: #45a1ff;
+  color: #fff;
+}
+body{
+  background-image: url(https://images.wallpaperscraft.ru/image/single/gradient_fon_oranzhevyj_206971_1920x1080.jpg);
+}
+nav{
+  text-align: center;
+}
+.fuuu{
+  color: red;
+  text-align: center;
+}
+.duuu{
+  color: gold;
+  text-align: center;
+}
+.guuu{
+  text-align: center;
+}
+.yuuu{
+  text-align: left;
+}
+.huuu{
+  text-align: center;
+}
+.buuu{
+  text-align: center;
+}
+.juuu{
+  text-align: center;
+}
+.kuuu{
+  text-align: center;
+}
+.ouuu{
+  text-align: right;
+}
+.rt{
+  background-color: darkgray;
+  text-align: center;
+}
+#rf{
+  text-align: center;
+}
+#ry{
+  text-align: left;
+}
+#rk{
+  text-align: left;
+}
+#rj{
+  text-align: left;
+}
